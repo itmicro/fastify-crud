@@ -1,0 +1,3 @@
+JWT_SECRET = "1"
+JWT_SECRET_REFRESH  = "2"
+MONGO_URL  = "mongodb://127.0.0.1:27017/shop1?retryWrites=true&w=majority"
